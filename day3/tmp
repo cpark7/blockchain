@@ -1,0 +1,29 @@
+#main_content > div.list_body.newsflash_body > ul.type06_headline > li:nth-child(2) > dl > dt:nth-child(2) > a
+
+#main_content > div.list_body.newsflash_body > ul.type06_headline > li:nth-child(3) > dl > dt:nth-child(2) > a
+
+#main_content > div.list_body.newsflash_body > ul.type06_headline > li:nth-child(4) > dl > dt:nth-child(2) > a
+
+#main_content > div.list_body.newsflash_body > ul.type06_headline > li:nth-child(5) > dl > dt:nth-child(2) > a
+
+
+
+#newsMainTop > div > div.inner_area_left > div > div.main_news > ul > li:nth-child(1) > a
+#newsMainTop > div > div.inner_area_left > div > div.main_news > ul > li:nth-child(2) > a
+
+
+
+
+#style
+
+    font-family: "Helvetica Neue","Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",Dotum,"돋움",sans-serif;
+    letter-spacing: -1px;
+    line-height: 24px;
+    list-style: none;
+    white-space: nowrap;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+
+<span class="date is_new">…</span>
